@@ -118,7 +118,7 @@
 
                 <tr class="menu-row" >
                     <td class="menu-btn menu-icon-data">
-                        <a href="http://localhost/edoc/patient/data.php" class="non-style-link-menu"><div><p class="menu-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-capsule" viewBox="0 0 16 16">
+                        <a href="data.php" class="non-style-link-menu"><div><p class="menu-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-capsule" viewBox="0 0 16 16">
   <path d="M1.828 8.9 8.9 1.827a4 4 0 1 1 5.657 5.657l-7.07 7.071A4 4 0 1 1 1.827 8.9Zm9.128.771 2.893-2.893a3 3 0 1 0-4.243-4.242L6.713 5.429z"/>
 </svg> Medical Info</p></a></div>
                     </td>
@@ -126,7 +126,7 @@
 
                 <tr class="menu-row" >
                     <td class="menu-btn menu-icon-remainder">
-                        <a href="http://localhost/edoc/patient/remainder.php" class="non-style-link-menu"><div><p class="menu-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-stopwatch" viewBox="0 0 16 16">
+                        <a href="remainder.php" class="non-style-link-menu"><div><p class="menu-text"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-stopwatch" viewBox="0 0 16 16">
   <path d="M8.5 5.6a.5.5 0 1 0-1 0v2.9h-3a.5.5 0 0 0 0 1H8a.5.5 0 0 0 .5-.5z"/>
   <path d="M6.5 1A.5.5 0 0 1 7 .5h2a.5.5 0 0 1 0 1v.57c1.36.196 2.594.78 3.584 1.64l.012-.013.354-.354-.354-.353a.5.5 0 0 1 .707-.708l1.414 1.415a.5.5 0 1 1-.707.707l-.353-.354-.354.354-.013.012A7 7 0 1 1 7 2.071V1.5a.5.5 0 0 1-.5-.5M8 3a6 6 0 1 0 .001 12A6 6 0 0 0 8 3"/>
 </svg>   Remainders</p></a></div>
